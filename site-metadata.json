@@ -39,7 +39,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Prueba",
+                "label": "Contáctanos",
                 "url": "youtube.com",
                 "style": "primary",
                 "has_icon": false,
