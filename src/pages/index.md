@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Clubs de Lectura
+    title: Nuestros Clubs
     subtitle: ''
     features:
       - title: Lo que Vestimos las Mujeres
