@@ -120,7 +120,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: primary
+    background_color: none
   - type: features_section
     features:
       - title: >-
