@@ -56,6 +56,7 @@ sections:
         image: images/classic/feature-2.png
         media_position: left
         media_width: fifty
+        subtitle: Club de lectura
       - title: 'Luz, Cámara, ¡Moda!'
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
