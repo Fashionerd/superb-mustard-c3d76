@@ -56,6 +56,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: Club de lectura
+        image: images/FS web.png
       - title: 'Luz, Cámara, ¡Moda!'
         subtitle: Club de cine
         content: >-
