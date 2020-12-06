@@ -2,7 +2,7 @@
 title: Inicio
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: ¡Bienvenido/a/e a Fashionerd!
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
