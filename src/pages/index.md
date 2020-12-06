@@ -208,7 +208,7 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: none
+    background_color: primary
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
