@@ -20,7 +20,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    image: images/WEB.png
+    image: images/WEB2.png
   - type: features_section
     title: Nuestros Clubs
     subtitle: ''
