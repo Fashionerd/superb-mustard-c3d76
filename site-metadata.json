@@ -47,7 +47,7 @@
                 "label": "Prueba",
                 "url": "youtube.com",
                 "style": "primary",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "facebook"
             }
         ],
