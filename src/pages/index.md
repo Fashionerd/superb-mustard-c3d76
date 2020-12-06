@@ -58,7 +58,7 @@ sections:
         media_width: fifty
         subtitle: Club de lectura
       - title: 'Luz, Cámara, ¡Moda!'
-        subtitle: ''
+        subtitle: Club de cine
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
