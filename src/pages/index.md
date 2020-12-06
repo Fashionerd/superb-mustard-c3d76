@@ -143,7 +143,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: Po
+    title: Podcast
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
