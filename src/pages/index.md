@@ -256,17 +256,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: features_section
-    features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Marti Barroeta Zalaquett, Fundadora y Directora'
-        image: images/brandon-guidelines.png
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
