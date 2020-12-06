@@ -125,7 +125,7 @@ sections:
     title: El Blog
     subtitle: Blog Feed Section Example
     actions:
-      - label: View All
+      - label: Posts Anteriores
         url: /blog
         style: primary
     blog_feed_cols: three
