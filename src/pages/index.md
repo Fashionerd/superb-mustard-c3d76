@@ -117,7 +117,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: none
+    background_color: primary
   - type: blog_feed_section
     title: El Blog
     subtitle: Blog Feed Section Example
