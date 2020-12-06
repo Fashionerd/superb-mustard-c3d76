@@ -126,7 +126,7 @@ sections:
       - title: >-
           “Stackbit is fast! Themes are always up to date. It’s easy to use
           across the organization, and collaboration is easy.”
-        subtitle: 'Marti Barroeta Zalaquett, '
+        subtitle: 'Marti Barroeta Zalaquett, Fundadora y Directora'
         image: images/brandon-guidelines.png
         media_position: right
         media_width: thirty-three
