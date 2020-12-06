@@ -122,7 +122,7 @@ sections:
     align: center
     background_color: none
   - type: blog_feed_section
-    title: What's New
+    title: El Blog
     subtitle: Blog Feed Section Example
     actions:
       - label: View All
