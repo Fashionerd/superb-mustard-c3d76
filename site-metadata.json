@@ -48,7 +48,8 @@
                 "url": "youtube.com",
                 "style": "primary",
                 "has_icon": false,
-                "icon": "facebook"
+                "icon": "facebook",
+                "new_window": true
             }
         ],
         "has_anncmnt": true,
