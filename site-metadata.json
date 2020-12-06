@@ -50,6 +50,16 @@
                 "has_icon": false,
                 "icon": "facebook",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
             }
         ],
         "has_anncmnt": true,
