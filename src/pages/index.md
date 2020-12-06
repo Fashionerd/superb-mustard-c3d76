@@ -241,7 +241,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: ¿Quieres Conversar con Nosotr
+    title: ¿Quieres Conversar con Nosotre
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
