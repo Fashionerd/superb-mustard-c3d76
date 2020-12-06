@@ -47,7 +47,7 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         actions:
-          - label: Learn More
+          - label: Más Información
             url: ''
             style: primary
             has_icon: true
