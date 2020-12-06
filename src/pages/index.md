@@ -77,7 +77,7 @@ sections:
     align: center
     background_color: secondary
   - type: grid_section
-    title: 'Nuestros Fashionerds '
+    title: Nuestros Fashionerds Dicen
     subtitle: Grid Section Example
     grid_items:
       - content: >-
