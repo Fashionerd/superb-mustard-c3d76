@@ -210,7 +210,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Team Section
+    title: 'Nuestro '
     subtitle: Grid Section Example
     actions:
       - label: Join the team
