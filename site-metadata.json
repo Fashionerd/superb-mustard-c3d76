@@ -1,7 +1,7 @@
 {
     "description": "La primera plataforma de estudios críticos de moda de Chile",
     "layout": "boxed",
-    "style": "classic",
+    "style": "minimal",
     "palette": "blue",
     "mode": "light",
     "base_font": "sans-serif",
