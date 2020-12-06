@@ -1,10 +1,10 @@
 {
-    "description": "A \"do it yourself\" theme for Stackbit",
+    "description": "La primera plataforma de estudios críticos de moda de Chile",
     "layout": "boxed",
-    "style": "classic",
-    "palette": "green",
+    "style": "bold",
+    "palette": "red",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "DIY",
         "logo": "images/classic/logo.svg",
@@ -39,14 +39,12 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contact",
-                "url": "/contact",
-                "style": "link"
-            },
-            {
-                "label": "Get Started",
-                "url": "/pricing",
-                "style": "primary"
+                "label": "Contáctanos",
+                "url": "youtube.com",
+                "style": "primary",
+                "has_icon": false,
+                "icon": "facebook",
+                "new_window": true
             }
         ],
         "has_anncmnt": true,
@@ -112,7 +110,7 @@
                 "url": "https://twitter.com/",
                 "style": "link",
                 "has_icon": true,
-                "icon": "twitter",
+                "icon": "instagram",
                 "icon_position": "center",
                 "new_window": true
             },
@@ -162,5 +160,5 @@
             }
         ]
     },
-    "title": "Stackbit DIY Theme"
+    "title": "Fashionerd"
 }

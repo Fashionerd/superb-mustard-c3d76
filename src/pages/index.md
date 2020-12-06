@@ -1,117 +1,146 @@
 ---
-title: Home
+title: Inicio
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: Optional hero section subtitle
+    title: ¡Bienvenido/a/e a Fashionerd!
+    subtitle: La primera plataforma de estudios críticos de moda de Chile
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Try Free
+      - label: Nuestras Iniciativas
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Quiénes Somos
         url: /features
         style: secondary
-    image: images/classic/hero.png
     media_position: left
-    media_width: fifty
-    align: left
+    media_width: sixty
+    align: center
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_align: center
-      - image: images/logo-2.svg
-        image_align: center
-      - image: images/logo-3.svg
-        image_align: center
-      - image: images/logo-4.svg
-        image_align: center
-      - image: images/logo-5.svg
-        image_align: center
-      - image: images/logo-6.svg
-        image_align: center
-      - image: images/logo-7.svg
-        image_align: center
-      - image: images/logo-8.svg
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
+    image: images/WEB4.png
   - type: features_section
-    title: Features Section
-    subtitle: Features Section Example
+    title: Nuestros Clubs
+    subtitle: ''
     features:
-      - title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+      - title: Lo que Vestimos las Mujeres
+        subtitle: Club de lectura
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         actions:
-          - label: Learn More
+          - label: Más Información
             url: /style-guide
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
         media_position: right
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: Fibras Sensibles
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         actions:
-          - label: Learn More
-            url: /style-guide
+          - label: Más Información
+            url: ''
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-2.png
         media_position: left
         media_width: fifty
-      - title: The Big Title For the Feature
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: Club de lectura
+      - title: 'Luz, Cámara, ¡Moda!'
+        subtitle: Club de cine
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         actions:
-          - label: Learn More
+          - label: Más información
             url: /style-guide
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-3.png
         media_position: right
         media_width: fifty
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: features_section
-    features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: grid_section
-    title: Cards Grid Section
+    title: Nuestros Fashionerds Dicen
+    subtitle: Testimonios
+    grid_items:
+      - content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
+
+
+          **Hanson Deck,** *App Developer, Studio*
+        image: images/hanson-deck.png
+        image_position: left
+        image_width: twenty-five
+      - content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
+
+
+          **Miles Tone,** *CEO, Studio*
+        image: images/miles-tone.png
+        image_position: left
+        image_width: twenty-five
+      - content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
+
+
+          **Eleanor Carr,** *CTO, Studio*
+        image: images/eleanor-carr.png
+        image_position: left
+        image_width: twenty-five
+      - content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
+
+
+          **Gordon Norman,** *Web Designer, Studio*
+        image: images/gordon-norman.png
+        image_position: left
+        image_width: twenty-five
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: large
+    align: center
+    background_color: none
+  - type: blog_feed_section
+    title: El Blog
+    subtitle: Blog Feed Section Example
+    actions:
+      - label: Posts Anteriores
+        url: /blog
+        style: primary
+    blog_feed_cols: three
+    enable_cards: true
+    show_recent: true
+    recent_count: 3
+    show_image: true
+    show_date: true
+    show_categories: true
+    show_author: true
+    show_excerpt: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+  - type: grid_section
+    title: Podcast
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
@@ -178,68 +207,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
-    grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-  - type: grid_section
-    title: Team Section
+    title: Nuestro Equipo
     subtitle: Grid Section Example
     actions:
       - label: Join the team
@@ -266,38 +234,35 @@ sections:
         title_align: center
         image: images/hilary-ouse.jpg
         image_position: top
-    grid_cols: four
+    grid_cols: two
     align: center
     background_color: secondary
-  - type: blog_feed_section
-    title: What's New
-    subtitle: Blog Feed Section Example
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
+  - title: Fashionerd en los Medios
+    subtitle: ''
+    actions: []
+    grid_items: []
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
     align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
     background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: ¿Quieres Conversar con Nosotres?
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     actions:
-      - label: Button
+      - label: Contáctanos
         url: /pricing
         style: primary
     actions_position: bottom
