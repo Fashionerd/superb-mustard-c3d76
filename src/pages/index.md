@@ -56,6 +56,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: Club de lectura
+        image: images/FS web.png
       - title: 'Luz, Cámara, ¡Moda!'
         subtitle: Club de cine
         content: >-
@@ -73,7 +74,7 @@ sections:
         media_width: fifty
     feature_padding_vert: large
     align: center
-    background_color: secondary
+    background_color: none
   - type: grid_section
     title: Nuestros Fashionerds Dicen
     subtitle: Testimonios
