@@ -48,7 +48,7 @@ sections:
           euismod lacinia.
         actions:
           - label: Learn More
-            url: /style-guide
+            url: Más
             style: primary
             has_icon: true
             icon: arrow-right
