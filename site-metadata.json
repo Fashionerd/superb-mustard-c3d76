@@ -46,7 +46,7 @@
             {
                 "label": "Prueba",
                 "url": "youtube.com",
-                "style": "primary"
+                "style": "link"
             }
         ],
         "has_anncmnt": true,
