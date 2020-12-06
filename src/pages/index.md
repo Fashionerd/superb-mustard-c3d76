@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: features_section
     title: Features Section
-    subtitle: Features Section Example
+    subtitle: Club
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
