@@ -72,6 +72,7 @@ sections:
             icon_position: right
         media_position: right
         media_width: fifty
+        image: images/LCM.png
     feature_padding_vert: large
     align: center
     background_color: none
