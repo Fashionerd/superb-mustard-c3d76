@@ -240,21 +240,6 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
-  - type: cta_section
-    title: ¿Quieres Conversar con Nosotres?
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Contáctanos
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
@@ -273,5 +258,20 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: cta_section
+    title: ¿Quieres Conversar con Nosotres?
+    content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+      fringilla, fringilla.
+    actions:
+      - label: Contáctanos
+        url: /pricing
+        style: primary
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
 template: advanced
 ---
