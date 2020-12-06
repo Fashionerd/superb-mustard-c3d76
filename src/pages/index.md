@@ -77,7 +77,7 @@ sections:
     align: center
     background_color: secondary
   - type: grid_section
-    title: Lo que Dicen
+    title: 'Lo que Dicen '
     subtitle: Grid Section Example
     grid_items:
       - content: >-
