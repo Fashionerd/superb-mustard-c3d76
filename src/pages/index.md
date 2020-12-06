@@ -241,7 +241,7 @@ sections:
     align: center
     background_color: secondary
   - title: Fashionerd en los Medios
-    subtitle: lorem-ipsum
+    subtitle: ''
     actions: []
     grid_items: []
     grid_cols: three
