@@ -40,6 +40,7 @@ sections:
             icon_position: right
         media_position: right
         media_width: fifty
+        image: images/LQVLM WEB.png
       - title: Fibras Sensibles
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
