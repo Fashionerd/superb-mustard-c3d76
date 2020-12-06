@@ -11,7 +11,7 @@ sections:
       - label: Nuestras Iniciativas
         url: /pricing
         style: primary
-      - label: Sobre Nosotr
+      - label: Quiénes Somos
         url: /features
         style: secondary
     image: images/classic/hero.png
