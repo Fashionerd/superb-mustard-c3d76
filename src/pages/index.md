@@ -3,7 +3,7 @@ title: Inicio
 sections:
   - type: hero_section
     title: ¡Bienvenido/a/e a Fashionerd!
-    subtitle: Optional hero section subtitle
+    subtitle: 'La primera plataforma de '
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
