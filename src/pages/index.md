@@ -240,7 +240,7 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
-  - title: lorem-ipsum
+  - title: Fashionerd en los Medios
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
