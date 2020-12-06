@@ -143,7 +143,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: Cards Grid Section
+    title: Po
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
