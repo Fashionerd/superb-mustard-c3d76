@@ -141,7 +141,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: primary
+    background_color: none
   - type: grid_section
     title: Podcast
     subtitle: Grid Section Example
