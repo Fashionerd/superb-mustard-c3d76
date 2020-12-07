@@ -239,7 +239,7 @@ sections:
         image_position: top
     grid_cols: two
     align: center
-    background_color: secondary
+    background_color: primary
   - title: Fashionerd en los Medios
     subtitle: ''
     actions: []
