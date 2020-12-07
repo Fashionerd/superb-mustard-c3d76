@@ -120,7 +120,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: primary
+    background_color: none
   - type: blog_feed_section
     title: El Blog
     subtitle: Blog Feed Section Example
@@ -141,7 +141,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: none
+    background_color: primary
   - type: grid_section
     title: Podcast
     subtitle: Grid Section Example
@@ -239,7 +239,7 @@ sections:
         image_position: top
     grid_cols: two
     align: center
-    background_color: secondary
+    background_color: primary
   - title: Fashionerd en los Medios
     subtitle: ''
     actions: []
@@ -272,6 +272,6 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: primary
 template: advanced
 ---
