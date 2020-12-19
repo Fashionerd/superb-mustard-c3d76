@@ -6,8 +6,8 @@ sections:
     subtitle: La primera plataforma de estudios de moda de Chile
     content: >-
       Los estudios de moda son un campo académico que se ocupa de observar,
-      analizar y documentar la moda y la indumentaria, así como de teorizar
-      sobre ella y trazar sus historias.
+      analizar y documentar la moda y la indumentaria, así como de
+      experimentarla, teorizar sobre ella y trazar sus historias.
 
 
       Aquí encontrarás diversas herramientas e iniciativas para introducirte y
