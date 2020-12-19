@@ -6,10 +6,8 @@ sections:
     subtitle: La primera plataforma de estudios de moda de Chile
     content: >-
       Los estudios de moda son un campo académico que se ocupa de observar,
-      analizar y documentar la moda y la indumentaria, así como de teorizarla y
-      trazar su historia. En él convergen disciplinas como la sociología, la
-      filosofía, la historia, el diseño, la teoría e historia del arte, la
-      economía, la psicología, el derecho y muchas otras.
+      analizar y documentar la moda y la indumentaria, así como de teorizar
+      sobre ella y trazar su historia.
     actions:
       - label: Nuestras Iniciativas y Herramientas
         url: /pricing
