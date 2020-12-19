@@ -13,7 +13,7 @@ sections:
       Aquí encontrarás diversas iniciativas y recursos para introducirte y
       profundizar en él.
     actions:
-      - label: Iniciativas y Recursos
+      - label: ¡Muéstrame Más!
         url: /pricing
         style: primary
       - label: Quiénes Somos
