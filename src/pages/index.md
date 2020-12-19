@@ -33,7 +33,7 @@ sections:
       y construir conocimiento sobre moda de forma colectiva y horizontal
     features:
       - title: Lo que Vestimos las Mujeres
-        subtitle: Club de lectura
+        subtitle: Club de lectura (separatista)
         content: >-
           En este club analizamos textos que versan sobre las diversas
           experiencias vestimentarias y corporales de las mujeres, y debatimos
