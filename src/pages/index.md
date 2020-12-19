@@ -28,7 +28,7 @@ sections:
     image: images/Portada -.png
   - type: features_section
     title: Clubs
-    subtitle: ''
+    subtitle: 'Todos los meses organizamos '
     features:
       - title: Lo que Vestimos las Mujeres
         subtitle: Club de lectura
