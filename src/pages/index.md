@@ -10,7 +10,7 @@ sections:
       experimentarla, teorizar sobre ella y trazar sus historias.
 
 
-      Aquí encontrarás diversas herramientas e iniciativas para introducirte y
+      Aquí encontrarás diversas iniciativas y recursos para introducirte y
       profundizar en él.
     actions:
       - label: Iniciativas y Recursos
