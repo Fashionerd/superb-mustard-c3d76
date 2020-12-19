@@ -5,10 +5,15 @@ sections:
     title: ¡Bienvenido/a/e a Fashionerd!
     subtitle: La primera plataforma de estudios de moda de Chile
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      Los estudios de moda son un campo académico que se ocupa de observar,
+      analizar y documentar la moda y la indumentaria, así como de
+      experimentarla, teorizar sobre ella y trazar sus historias.
+
+
+      Aquí encontrarás diversas herramientas e iniciativas para introducirte y
+      profundizar en él.
     actions:
-      - label: Nuestras Iniciativas
+      - label: Nuestras Iniciativas y Herramientas
         url: /pricing
         style: primary
       - label: Quiénes Somos
