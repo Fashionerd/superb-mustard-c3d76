@@ -13,7 +13,7 @@ sections:
       Aquí encontrarás diversas herramientas e iniciativas para introducirte y
       profundizar en él.
     actions:
-      - label: Iniciativas y Herramientas
+      - label: Iniciativas y Recursos
         url: /pricing
         style: primary
       - label: Quiénes Somos
