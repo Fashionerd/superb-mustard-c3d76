@@ -27,15 +27,18 @@ sections:
     background_color: primary
     image: images/Portada -.png
   - type: features_section
-    title: Nuestros Clubs
-    subtitle: ''
+    title: Clubs
+    subtitle: >-
+      Todos los meses organizamos diversos clubs, donde nos reunimos a compartir
+      y construir conocimiento sobre moda de forma colectiva y horizontal
     features:
       - title: Lo que Vestimos las Mujeres
-        subtitle: Club de lectura
+        subtitle: Club de lectura (separatista)
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          En este club analizamos textos que versan sobre las diversas
+          experiencias vestimentarias y corporales de las mujeres, y debatimos
+          sobre cómo se relaciona ello con las luchas por su liberación y
+          derechos.
         actions:
           - label: Más Información
             url: /style-guide
