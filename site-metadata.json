@@ -7,7 +7,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Fashionerd",
-        "logo": "images/Def fondo blanco.png",
+        "logo": "images/famous-lime.png",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
