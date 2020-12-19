@@ -273,7 +273,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: ¿Qué son
+  - title: ¿Qué son los
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
