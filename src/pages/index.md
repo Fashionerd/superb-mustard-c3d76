@@ -27,7 +27,7 @@ sections:
     background_color: primary
     image: images/Portada -.png
   - type: features_section
-    title: Nuestros Clubs
+    title: Clubs
     subtitle: ''
     features:
       - title: Lo que Vestimos las Mujeres
