@@ -274,7 +274,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: ¿Qué son los Estudios de Moda?
-    subtitle: lorem-ipsum
+    subtitle: ''
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
