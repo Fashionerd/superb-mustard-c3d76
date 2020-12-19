@@ -35,9 +35,10 @@ sections:
       - title: Lo que Vestimos las Mujeres
         subtitle: Club de lectura
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          En este club analizamos textos que versan sobre las diversas
+          experiencias vestimentarias y corporales de las mujeres, y debatimos
+          sobre cómo se relaciona ello con las luchas por su liberación y
+          derechos.
         actions:
           - label: Más Información
             url: /style-guide
