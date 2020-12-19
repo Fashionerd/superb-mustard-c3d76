@@ -30,7 +30,7 @@ sections:
     title: Clubs
     subtitle: >-
       Todos los meses organizamos diversos clubs, donde nos reunimos a compartir
-      y construir conocimiento de moda de forma colectiva y horizontal
+      y construir conocimiento sobre moda de forma colectiva y horizontal
     features:
       - title: Lo que Vestimos las Mujeres
         subtitle: Club de lectura
