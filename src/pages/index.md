@@ -28,7 +28,9 @@ sections:
     image: images/Portada -.png
   - type: features_section
     title: Clubs
-    subtitle: Todos los meses organizamos diversos clubs
+    subtitle: >-
+      Todos los meses organizamos diversos clubs, donde nos reunimos a compartir
+      y contruir conocimiento de moda de forma colectiva y horizontal
     features:
       - title: Lo que Vestimos las Mujeres
         subtitle: Club de lectura
