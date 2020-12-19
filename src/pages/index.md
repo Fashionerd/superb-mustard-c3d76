@@ -11,7 +11,7 @@ sections:
       filosofía, la historia, el diseño, la teoría e historia del arte, la
       economía, la psicología, el derecho y muchas otras.
     actions:
-      - label: Nuestras Iniciativas
+      - label: Nuestras Iniciativas y Herramientas
         url: /pricing
         style: primary
       - label: Quiénes Somos
