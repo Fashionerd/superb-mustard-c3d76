@@ -7,7 +7,11 @@ sections:
     content: >-
       Los estudios de moda son un campo académico que se ocupa de observar,
       analizar y documentar la moda y la indumentaria, así como de teorizar
-      sobre ella y trazar su historia.
+      sobre ella y trazar sus historias.
+
+
+      Aquí encontrarás diversas herramientas e iniciativas para introducirte y
+      profundizar en él.
     actions:
       - label: Nuestras Iniciativas y Herramientas
         url: /pricing
