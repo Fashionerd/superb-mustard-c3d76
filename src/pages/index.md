@@ -73,7 +73,7 @@ sections:
             icon_position: right
         media_position: right
         media_width: fifty
-        image: images/LCM.png
+        image: images/robust-zucchini.png
     feature_padding_vert: large
     align: center
     background_color: none
