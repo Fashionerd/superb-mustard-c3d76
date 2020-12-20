@@ -4,14 +4,7 @@ sections:
   - type: hero_section
     title: ¡Bienvenido/a/e a Fashionerd!
     subtitle: La primera plataforma de estudios de moda de Chile
-    content: >-
-      Los estudios de moda son un campo académico que se ocupa de observar,
-      analizar y documentar la moda y la indumentaria, así como de
-      experimentarla, teorizar sobre ella y trazar sus historias.
-
-
-      Aquí encontrarás diversas iniciativas y recursos para introducirte y
-      profundizar en él.
+    content: ''
     actions:
       - label: ¡Muéstrame Más!
         url: /pricing
@@ -48,7 +41,7 @@ sections:
             icon_position: right
         media_position: right
         media_width: fifty
-        image: images/LQVLM WEB.png
+        image: images/fierce-squid.png
       - title: Fibras Sensibles
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
@@ -64,7 +57,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: Club de lectura
-        image: images/FS web.png
+        image: images/superb-onion.png
       - title: 'Luz, Cámara, ¡Moda!'
         subtitle: Club de cine
         content: >-
@@ -80,7 +73,7 @@ sections:
             icon_position: right
         media_position: right
         media_width: fifty
-        image: images/LCM.png
+        image: images/robust-zucchini.png
     feature_padding_vert: large
     align: center
     background_color: none
