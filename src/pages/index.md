@@ -61,9 +61,10 @@ sections:
       - title: 'Luz, Cámara, ¡Moda!'
         subtitle: Club de cine
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          En este club analizamos el vestuario de diversas obras
+          cinematográficas y debatimos su rol en la construcción de los
+          personajes y en el desarrollo de la historia, así comos su impacto a
+          nivel social y cultural.
         actions:
           - label: Más información
             url: /style-guide
