@@ -44,9 +44,9 @@ sections:
         image: images/fierce-squid.png
       - title: Fibras Sensibles
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          En este club revisamos textos que tratan los lados oscuros de la moda,
+          como el daño al medioambiente y la explotación laboral, con el fin de
+          fomentar reflexiones críticas y praxis en torno a dichos problemas.
         actions:
           - label: Más Información
             url: ''
