@@ -18,7 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    image: images/Portada -.png
+    image: images/fashionerd-moda-critica-portada.png
   - type: features_section
     title: Clubs
     subtitle: >-
@@ -41,7 +41,7 @@ sections:
             icon_position: right
         media_position: right
         media_width: fifty
-        image: images/fierce-squid.png
+        image: images/club-lectura-moda-fashionerd-lqvlm.png
       - title: Fibras Sensibles
         content: >-
           En este club revisamos textos que tratan los lados oscuros de la moda,
@@ -57,7 +57,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: Club de lectura
-        image: images/superb-onion.png
+        image: images/club-lectura-fibras-sensibles-medio-ambiente-fashionerd.png
       - title: 'Luz, Cámara, ¡Moda!'
         subtitle: Club de cine
         content: >-
@@ -74,7 +74,7 @@ sections:
             icon_position: right
         media_position: right
         media_width: fifty
-        image: images/robust-zucchini.png
+        image: images/club-cine-fashionerd.png
     feature_padding_vert: large
     align: center
     background_color: none
