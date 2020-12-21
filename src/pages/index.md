@@ -57,7 +57,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: Club de lectura
-        image: images/superb-onion.png
+        image: images/club-lectura-fibras-sensibles-medio-ambiente-fashionerd.png
       - title: 'Luz, Cámara, ¡Moda!'
         subtitle: Club de cine
         content: >-
