@@ -41,7 +41,7 @@ sections:
             icon_position: right
         media_position: right
         media_width: fifty
-        image: images/fierce-squid.png
+        image: images/club-lectura-moda-fashionerd-lqvlm.png
       - title: Fibras Sensibles
         content: >-
           En este club revisamos textos que tratan los lados oscuros de la moda,
