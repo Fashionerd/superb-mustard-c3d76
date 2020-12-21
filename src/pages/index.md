@@ -23,8 +23,7 @@ sections:
     title: Clubs
     subtitle: >-
       Instancias donde nos reunimos a compartir y construir conocimiento sobre
-      moda, indumentaria y cuerpo de forma colectiva y horizontal, a partir de
-      diversos medios
+      moda, indumentaria y cuerpo de forma colectiva y horizontal
     features:
       - title: Lo que Vestimos las Mujeres
         subtitle: Club de lectura (separatista)
