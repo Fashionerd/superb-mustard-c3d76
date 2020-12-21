@@ -18,7 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    image: images/Portada -.png
+    image: images/fashionerd-moda-critica-portada.png
   - type: features_section
     title: Clubs
     subtitle: >-
