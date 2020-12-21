@@ -128,7 +128,7 @@ sections:
     title: El Blog
     subtitle: Blog Feed Section Example
     actions:
-      - label: Más Posts
+      - label: Más Entradas
         url: /blog
         style: primary
     blog_feed_cols: three
