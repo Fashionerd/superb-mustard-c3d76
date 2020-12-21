@@ -78,7 +78,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    padding_top: none
+    padding_top: medium
   - type: grid_section
     title: Nuestros Fashionerds Dicen
     subtitle: Testimonios
