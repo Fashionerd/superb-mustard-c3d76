@@ -116,8 +116,8 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/fashionerd.cl/",
                 "style": "link",
                 "has_icon": true,
                 "icon": "instagram",
@@ -137,7 +137,7 @@
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "link",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "linkedin",
                 "icon_position": "center",
                 "new_window": true
@@ -146,7 +146,7 @@
                 "label": "LinkedIn",
                 "url": "https://www.youtube.com/",
                 "style": "link",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "youtube",
                 "icon_position": "center",
                 "new_window": true
@@ -155,7 +155,7 @@
                 "label": "LinkedIn",
                 "url": "https://vimeo.com/",
                 "style": "link",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "vimeo",
                 "icon_position": "center",
                 "new_window": true
