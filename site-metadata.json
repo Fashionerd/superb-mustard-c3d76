@@ -161,8 +161,14 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Fashionerd. Todos los derechos reservados. 2020",
-       
+        "content": "&copy; Fashionerd. Todos los derechos reservados.",
+        "links": [
+            {
+                "label": "2021",
+                "url": "#",
+                "style": "link"
+            }
+        ]
     },
     "title": "Fashionerd"
 }
