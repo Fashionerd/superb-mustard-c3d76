@@ -267,8 +267,8 @@ sections:
   - type: cta_section
     title: ¿Quieres Conversar con Nosotres?
     content: >-
-      Publicar tu trabajo, colaborar con nosotres, entrevistarnos, o lo que sea,
-      estaremos felices de hablar contigo
+      Si te gistaría publicar tu trabajo, colaborar con nosotres,
+      entrevistarnos, o lo que sea, estaremos felices de hablar contigo
     actions:
       - label: Contáctanos
         url: /pricing
