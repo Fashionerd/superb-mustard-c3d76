@@ -46,7 +46,8 @@ sections:
         content: >-
           En este club revisamos textos que tratan los lados oscuros de la moda,
           como el daño al medioambiente y la explotación laboral, con el fin de
-          fomentar reflexiones críticas y praxis en torno a dichos problemas.
+          fomentar reflexiones críticas y praxis tendientes a combatir dichos
+          problemas.
         actions:
           - label: Más Información
             url: ''
