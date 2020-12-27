@@ -222,7 +222,7 @@ sections:
         style: primary
     grid_items:
       - title: Martina Barroeta Zalaquett
-        subtitle: Co-Founder & CEO
+        subtitle: Fundadora y Directora
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
