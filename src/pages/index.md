@@ -3,7 +3,7 @@ title: Inicio
 sections:
   - type: hero_section
     title: ¡Bienvenido/a/e a Fashionerd!
-    subtitle: La primera plataforma de estudios de moda de Chile
+    subtitle: La primera plataforma de estudios críticos de moda de Chile
     content: ''
     actions:
       - label: ¡Muéstrame Más!
@@ -22,8 +22,8 @@ sections:
   - type: features_section
     title: Clubs
     subtitle: >-
-      Todos los meses organizamos diversos clubs, donde nos reunimos a compartir
-      y construir conocimiento sobre moda de forma colectiva y horizontal
+      Instancias donde nos reunimos a compartir y construir conocimiento sobre
+      moda, indumentaria y cuerpo de forma colectiva y horizontal
     features:
       - title: Lo que Vestimos las Mujeres
         subtitle: Club de lectura (separatista)
@@ -128,7 +128,7 @@ sections:
     title: El Blog
     subtitle: Blog Feed Section Example
     actions:
-      - label: Posts Anteriores
+      - label: Más Entradas
         url: /blog
         style: primary
     blog_feed_cols: three
