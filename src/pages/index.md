@@ -279,7 +279,9 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: Recursos
-    subtitle: Encuentra material para tu investigación
+    subtitle: >-
+      Encuentra material para tu investigación o para iniciarte en los estudios
+      de moda
     actions: []
     grid_items: []
     grid_cols: three
