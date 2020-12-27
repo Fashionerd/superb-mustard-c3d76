@@ -266,10 +266,7 @@ sections:
     type: grid_section
   - type: cta_section
     title: ¿Quieres Conversar con Nosotres?
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: Te responderemos a la brevedad
     actions:
       - label: Contáctanos
         url: /pricing
