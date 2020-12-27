@@ -279,7 +279,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: Recursos
-    subtitle: ''
+    subtitle: 'Una '
     actions: []
     grid_items: []
     grid_cols: three
