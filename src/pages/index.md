@@ -278,7 +278,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: ''
+  - title: Recursos
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
