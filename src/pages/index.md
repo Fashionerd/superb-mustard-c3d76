@@ -9,7 +9,7 @@ sections:
       - label: ¡Muéstrame Más!
         url: /pricing
         style: primary
-      - label: Quiénes Somos
+      - label: Nuestro Equipo
         url: /features
         style: secondary
     media_position: left
