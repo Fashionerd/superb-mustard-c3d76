@@ -127,7 +127,7 @@ sections:
     background_color: none
   - type: blog_feed_section
     title: El Blog
-    subtitle: 'Lee nuestras últimas '
+    subtitle: Lee nuestras últimas reflexiones
     actions:
       - label: Más Entradas
         url: /blog
