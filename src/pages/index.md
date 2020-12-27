@@ -232,7 +232,7 @@ sections:
         image: images/dianne-ameter.jpg
         image_position: top
       - title: Carolina Pacheco
-        subtitle: Developer Advocate
+        subtitle: Investigadora
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
