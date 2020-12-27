@@ -127,7 +127,7 @@ sections:
     background_color: none
   - type: blog_feed_section
     title: El Blog
-    subtitle: 'Lee nuestras ideas '
+    subtitle: ''
     actions:
       - label: Más Entradas
         url: /blog
