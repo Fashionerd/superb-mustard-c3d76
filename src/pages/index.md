@@ -266,7 +266,9 @@ sections:
     type: grid_section
   - type: cta_section
     title: ¿Quieres Conversar con Nosotres?
-    content: Te responderemos a la brevedad
+    content: >-
+      Publicar tu trabajo, colaborar con nosotres, entrevistarnos, o lo que sea,
+      estaremos felices de hablar contigo
     actions:
       - label: Contáctanos
         url: /pricing
