@@ -46,7 +46,8 @@ sections:
         content: >-
           En este club revisamos textos que tratan los lados oscuros de la moda,
           como el daño al medioambiente y la explotación laboral, con el fin de
-          fomentar reflexiones críticas y praxis en torno a dichos problemas.
+          fomentar reflexiones críticas y praxis tendientes a combatir dichos
+          problemas.
         actions:
           - label: Más Información
             url: ''
@@ -220,18 +221,18 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
+      - title: Martina Barroeta Zalaquett
+        subtitle: Fundadora y Directora
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
-      - title: Dianne Ameter
-        subtitle: Software Engineer
+      - title: Jacqueline Peñailillo
+        subtitle: Investigadora
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
+      - title: Carolina Pacheco
+        subtitle: Investigadora
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
