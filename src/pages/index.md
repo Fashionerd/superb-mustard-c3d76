@@ -127,7 +127,7 @@ sections:
     background_color: none
   - type: blog_feed_section
     title: El Blog
-    subtitle: Algunas ideas interesantes para compartir
+    subtitle: Lee n
     actions:
       - label: Más Entradas
         url: /blog
