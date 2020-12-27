@@ -221,7 +221,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Martina Barroeta
+      - title: Martina Barroeta Zalaquett
         subtitle: Co-Founder & CEO
         title_align: center
         image: images/gustav-purpleson.jpg
