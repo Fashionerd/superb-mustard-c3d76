@@ -227,7 +227,7 @@ sections:
         image: images/gustav-purpleson.jpg
         image_position: top
       - title: Jacqueline Peñailillo
-        subtitle: Software Engineer
+        subtitle: Investigadora
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
