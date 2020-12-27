@@ -148,7 +148,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Podcast
-    subtitle: Grid Section Example
+    subtitle: 'Mientras preparamos la segunda temporada, '
     grid_items:
       - title: Section Item 1
         title_align: left
