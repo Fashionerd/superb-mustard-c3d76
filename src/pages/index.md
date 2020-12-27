@@ -3,7 +3,7 @@ title: Inicio
 sections:
   - type: hero_section
     title: ¡Bienvenido/a/e a Fashionerd!
-    subtitle: La primera plataforma de estudios de moda de Chile
+    subtitle: La primera plataforma de estudios críticos de moda de Chile
     content: ''
     actions:
       - label: ¡Muéstrame Más!
