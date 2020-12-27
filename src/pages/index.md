@@ -148,7 +148,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Podcast
-    subtitle: 'Mientras preparamos la segunda temporada, puedes '
+    subtitle: 'Mientras preparamos la segunda temporada, puedes escuchar nuestros prime'
     grid_items:
       - title: Section Item 1
         title_align: left
